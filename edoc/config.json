@@ -1,0 +1,25 @@
+{
+	"title": "喵小萌",
+	"description": "iOS开发整理",
+	"github": "https://www.github.com/pzjmiao",
+	"version": "0.0.1",
+	"licenses": "MIT",
+	"eedoc": {},
+	"index": {
+		"p": "/index.html",
+		"n": "喵小萌",
+		"d": "iOS开发整理"
+	},
+	"list": {
+		"p": "/list.html",
+		"n": "搜索",
+		"d": "iOS开发整理"
+	},
+	"deploys": [
+		{
+			"repo": "git@github.com:PZJMiao/pzjMiao.github.io.git",
+			"branch": "master",
+			"message": "Compiler generation page "
+		}
+	]
+}
